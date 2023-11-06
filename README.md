@@ -88,7 +88,7 @@ Welcome to my GitHub Page! I am Vladimir, a Computer Engineering student, 20 yea
 
 ## Connect with Me 🌐
 
-<a href="https://discord.com/buccellati_scumbag">
+<a href="https://discordapp.com/users/buccellati_scumbag/">
   <img src="https://img.shields.io/badge/Discord-Chat%20with%20Me-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </a>
 <a href="https://leetcode.com/young_carti">
