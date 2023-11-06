@@ -55,5 +55,3 @@ Welcome to my GitHub Page! I am Vladimir, a Computer Engineering student. 20 y.o
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Vladimir's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ynb4gang&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>
 </details>
-
-<!-- Добавьте сюда информацию о вашей деятельности, статистике и медалях GitHub, если необходимо -->
