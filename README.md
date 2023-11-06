@@ -4,7 +4,7 @@
 </div>
 <p></p>
 <p align="justify">
-Welcome to my GitHub Page! I am Vladimir, a Computer Engineering student. 20 y.o.
+Welcome to my GitHub Page! I am Vladimir, a Computer Engineering student. 20 y.o. Make first steps...
 </p>
 
 ## My favorite tools and technologies ⚙️
