@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm Vladimir" title="👋 Hi there! I'm Vladimir" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
+<img src="https://storage.googleapis.com/duckly-blog/2021/09/how-to-start.gif" alt="👋 Hi there! I'm Vladimir" title="👨‍💻" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
 <div align="justify">
 
 </div>
