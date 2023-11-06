@@ -94,7 +94,7 @@ Welcome to my GitHub Page! I am Vladimir, a Computer Engineering student, 20 yea
 <a href="https://leetcode.com/young_carti">
   <img src="https://img.shields.io/badge/LeetCode-Practice%20with%20Me-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
 </a>
-<a href="https://t.me/LuvDyrachyo">
+<a href="t.me/LuvDyrachyo">
   <img src="https://img.shields.io/badge/Telegram-Message%20Me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
 </a>
 <a href="https://vk.com/daxxxak">
