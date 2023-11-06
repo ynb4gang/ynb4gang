@@ -18,9 +18,7 @@ Welcome to my GitHub Page! I am Vladimir, a Computer Engineering student. 20 y.o
       <br>C#
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
       <br>Python
     </td>
     <td align="center" width="96">
@@ -40,8 +38,9 @@ Welcome to my GitHub Page! I am Vladimir, a Computer Engineering student. 20 y.o
       <br>Spring
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/microsoft-sql-icon.svg" alt="icon" width="65" height="65" />
-      <br>Microsoft SQL
+        <img src="https://techstack-generator.vercel.app/microsoft-sql-icon.gif" alt="icon" width="65" height="65" />
+      <br> SQL
+    </td>
   </tr>
   <!-- Добавьте здесь свои любимые инструменты и технологии -->
 </table>
