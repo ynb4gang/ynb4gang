@@ -16,15 +16,15 @@
 
 <h3 align="center">Hard Skills:</h3>
 <p align="center">
+   <a href="https://www.w3schools.com/cpp/" target="blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
   </a>
   <a href="https://www.java.com" target="blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
 </p>
 
 <h3 align="center">Soft Skills:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/cpp/" target="blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
+<p align="center">
   </a>
   <a href="https://www.w3schools.com/cs/" target="blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
