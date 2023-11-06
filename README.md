@@ -88,13 +88,13 @@ Welcome to my GitHub Page! I am Vladimir, a Computer Engineering student, 20 yea
 
 ## Connect with Me 🌐
 
-<a href="https://discord.com/your-discord-id">
+<a href="https://discord.com/buccellati_scumbag">
   <img src="https://img.shields.io/badge/Discord-Chat%20with%20Me-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </a>
-<a href="https://leetcode.com/your-leetcode-id">
+<a href="https://leetcode.com/young_carti">
   <img src="https://img.shields.io/badge/LeetCode-Practice%20with%20Me-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
 </a>
-<a href="https://t.me/your-telegram-id">
+<a href="https://t.me/LuvDyrachyo">
   <img src="https://img.shields.io/badge/Telegram-Message%20Me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
 </a>
 <a href="https://vk.com/daxxxak">
