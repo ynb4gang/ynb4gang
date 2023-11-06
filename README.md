@@ -1,5 +1,5 @@
+<img src="https://github.com/ynb4gang/ynb4gang/blob/main/intro.gif" alt="👋 Hi there! I'm Vladimir" title="👨‍💻" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
-<img src="https://storage.googleapis.com/duckly-blog/2021/09/how-to-start.gif" alt="👋 Hi there! I'm Vladimir" title="👨‍💻" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 <div align="justify">
 
