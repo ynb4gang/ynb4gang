@@ -1,4 +1,6 @@
-<img src="https://github.com/ynb4gang/ynb4gang/blob/main/smth.gif" alt="👋 Hi there! I'm Vladimir" title="👨‍💻" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<div align="center">
+  <img src="https://github.com/ynb4gang/ynb4gang/blob/main/smth.gif" alt="👋 Hi there! I'm Vladimir" title="👨‍💻" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+</div>
 
 
 <div align="justify">
