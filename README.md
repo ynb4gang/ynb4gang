@@ -97,6 +97,6 @@ Welcome to my GitHub Page! I am Vladimir, a Computer Engineering student, 20 yea
 <a href="https://t.me/your-telegram-id">
   <img src="https://img.shields.io/badge/Telegram-Message%20Me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
 </a>
-<a href="https://vk.com/your-vk-id">
+<a href="https://vk.com/daxxxak">
   <img src="https://img.shields.io/badge/VK-Add%20Me%20as%20Friend-4A76A8?style=for-the-badge&logo=vk&logoColor=white" alt="VK">
 </a>
