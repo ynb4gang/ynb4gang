@@ -14,11 +14,11 @@ Welcome to my GitHub Page! I am Vladimir, a Computer Engineering student, 20 yea
   <table>
     <tr>
       <td align="center">
-        <img src="https://your-company-logo-url.com" alt="Company Logo" width="80" height="80" />
+        <img src="https://upload.wikimedia.org/wikipedia/ru/thumb/4/42/%D0%A0%D0%BE%D1%81%D0%B0%D1%82%D0%BE%D0%BC_%D0%97%D0%BD%D0%B0%D0%BA.svg/1200px-%D0%A0%D0%BE%D1%81%D0%B0%D1%82%D0%BE%D0%BC_%D0%97%D0%BD%D0%B0%D0%BA.svg.png" alt="RosAtom" width="80" height="100" />
       </td>
       <td align="center">
-        <h3><b>Software Developer</b></h3>
-        <p><b>[Your Company](https://example.com)</b></p>
+        <h3><b>Programming engineer</b></h3>
+        <p><b>[Rosatom State Nuclear Energy Corporation](https://www.rosatom.ru/index.html)</b></p>
       </td>
     </tr>
   </table>
