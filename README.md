@@ -46,15 +46,6 @@ Welcome to my GitHub Page! I am Vladimir, a Computer Engineering student. 20 y.o
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/microsoft-sql-icon.svg" alt="icon" width="65" height="65" />
       <br>Microsoft SQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
-      <br>Nginx
-    </td>
   </tr>
   <!-- Добавьте здесь свои любимые инструменты и технологии -->
 </table>
