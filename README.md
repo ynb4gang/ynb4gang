@@ -4,8 +4,7 @@
 </div>
 <p></p>
 <p align="justify">
-Welcome to my GitHub Page. I am Vladimir, a Computer Engineering student. I'm passionate about programming and have been doing it for more than 10 years. I love learning new things about programming and sharing my knowledge with others. I also run an Instagram account called <a href="https://www.instagram.com/barnamenevisiinsta">Barnamenevisinsta</a>, where I share everything I learn about programming.
-
+Welcome to my GitHub Page! I am Vladimir, a Computer Engineering student. 20 y.o.
 </p>
 
 ## My favorite tools and technologies ⚙️
@@ -25,27 +24,31 @@ Welcome to my GitHub Page. I am Vladimir, a Computer Engineering student. I'm pa
       <br>Python
     </td>
     <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>Javascript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+      <br>Java
     </td>
-       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-      <br>Django
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <br>React
     </td>
-       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
-      <br>Github
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/spring-icon.svg" alt="icon" width="65" height="65" />
+      <br>Spring
     </td>
-          <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
-      <br>Rest API
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/microsoft-sql-icon.svg" alt="icon" width="65" height="65" />
+      <br>Microsoft SQL
     </td>
-          <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
       <br>Docker
     </td>
     <td align="center" width="96">
