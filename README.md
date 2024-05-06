@@ -60,6 +60,7 @@ Welcome to my GitHub Page! I am Vladimir, a Computer Engineering student, 20 yea
 		</tr>
 	</table>
 </div>
+
 ## GitHub stats 📊
 
 <details>
