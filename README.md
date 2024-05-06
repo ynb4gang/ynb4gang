@@ -33,47 +33,24 @@ Welcome to my GitHub Page! I am Vladimir, a Computer Engineering student, 20 yea
 > Tools and technologies that I use in my coding journey
 
 <table>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
-      <br>C#
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-        <img src="https://camo.githubusercontent.com/3725fbdff36aded1ac56da6eba080d5c95120ec0e06ef15a2612ca70d29e3e34/68747470733a2f2f6c6d73646f2e7265612e72752f706c7567696e66696c652e7068702f32353034332f636f757273652f6f7665727669657766696c65732f737072696e675f626565636f6465722e6f72672d332e706e67" alt="Spring" width="65" height="65" />
-      <br>Spring
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-      <br>SQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Git" width="65" height="65" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-        <img src="https://w1.pngwing.com/pngs/874/1023/png-transparent-leaf-apache-maven-software-build-apache-software-foundation-java-servlet-client-computer-software-hibernate.png" alt="Maven" width="65" height="65" />
-      <br>Maven
-    </td>
-    <td align="center" width="96">
-        <img src="https://camo.githubusercontent.com/d0ec618583c7786bd4d20d8ebbab73b19596fd14768f34c7a0ccdda32b5be603/68747470733a2f2f6d79736c6964652e72752f646f63756d656e74735f332f33636330616565636564643066643861316466343331643036373039643238382f696d6733392e6a7067" width="65" height="65" />
-      <br>Mockito
-    </td>
+ <div align="center">
+	<table>
+		<tr>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code></td>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code></td>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code></td>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code></td>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" alt="Spring" title="Spring"/></code></td>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Spring Boot" title="Spring Boot"/></code></td>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png" alt="JUnit" title="JUnit"/></code></td>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/></code></td>
+		</tr>
+		<tr>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code></td>
+			<td><code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/></code></td>
+		</tr>
+	</table>
+</div>
 </table>
 
 ## GitHub stats 📊
