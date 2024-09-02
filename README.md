@@ -5,7 +5,7 @@
 </div>
 <p></p>
 <p align="justify">
-Welcome to my GitHub Page! I am Vladimir, a Computer Engineering student, 20 years old, making my first steps in the world of programming. I'm passionate about learning new technologies and building exciting projects. As a student, I'm constantly expanding my knowledge and honing my coding skills.
+Welcome to my GitHub Page! I am Vladimir, a Computer Engineering student, 21 years old, making my first steps in the world of programming. I'm passionate about learning new technologies and building exciting projects. As a student, I'm constantly expanding my knowledge and honing my coding skills.
 </p>
 
 ## My Work Experience 👨‍💼
@@ -19,6 +19,15 @@ Welcome to my GitHub Page! I am Vladimir, a Computer Engineering student, 20 yea
       <td align="center">
         <h3><b>Programming engineer</b></h3>
         <p><b>[Rosatom State Nuclear Energy Corporation](https://www.rosatom.ru/index.html)</b></p>
+      </td>
+    </tr>
+	      <tr>
+      <td align="center">
+        <img src="https://media.tproger.ru/uploads/2022/01/Avatar_kvadrat_VC-Budu_1000h1000.png" alt="MTS" width="100" height="100" />
+      </td>
+      <td align="center">
+        <h3><b>Java&Python developer</b></h3>
+        <p><b>[A Russian company providing telecommunications, digital and media services in Russia, Armenia and Belarus.](https://mts.ru)</b></p>
       </td>
     </tr>
   </table>
