@@ -5,7 +5,7 @@
 </div>
 <p></p>
 <p align="justify">
-Welcome to my GitHub Page! I am Vladimir, a Computer Engineering student, 21 years old, making my first steps in the world of programming. I'm passionate about learning new technologies and building exciting projects. As a student, I'm constantly expanding my knowledge and honing my coding skills.
+Welcome to my GitHub Page! I am Vladimir, a Computer Engineering student, 22 years old, making my first steps in the world of programming. I'm passionate about learning new technologies and building exciting projects. As a student, I'm constantly expanding my knowledge and honing my coding skills.
 </p>
 
 ## My Work Experience 👨‍💼
