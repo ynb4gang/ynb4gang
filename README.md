@@ -29,23 +29,6 @@
 </div>
 
 ---
-
-## 💼 My Career Roadmap
-
-```mermaid
-journey
-  title Vladimir's Growth as an Engineer
-  section Foundations
-    Sber — Data Analyst → Java Dev: 5: Vladimir
-  section Backend Engineering
-    MTS — Java & Python Dev: 4: Vladimir
-  section Systems Refactoring
-    Rosatom — Programming Engineer: 4: Vladimir
-  section Leadership & Scale
-    EBS — Lead Data Engineer: 5: Vladimir
-```
----
-
 ## 🔧 Engineering Highlights
 
 <details>
