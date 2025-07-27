@@ -1,110 +1,155 @@
-<div align="center">
-  <img src="https://github.com/ynb4gang/ynb4gang/blob/main/coding.gif" alt="👋 Hi there! I'm Vladimir" title="👨‍💻" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-</div>
-<div align="justify">
-</div>
-<p></p>
-<p align="justify">
-Welcome to my GitHub Page! I am Vladimir, a Computer Engineering student, 22 years old, making my first steps in the world of programming. I'm passionate about learning new technologies and building exciting projects. As a student, I'm constantly expanding my knowledge and honing my coding skills.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E676,100:009688&height=160&section=header&text=Vladimir%20N.%20%E2%80%94%20Engineering%20with%20Purpose&fontColor=ffffff&fontSize=35&desc=Backend%20Developer%20%7C%20Data%20Engineer%20%7C%20System%20Thinker&descSize=18&descAlign=64&descAlignY=70" />
 </p>
-
-## My Work Experience 👨‍💼
-
-<div align="center">
-<table>
-    <tr>
-      <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/ru/thumb/4/42/%D0%A0%D0%BE%D1%81%D0%B0%D1%82%D0%BE%D0%BC_%D0%97%D0%BD%D0%B0%D0%BA.svg/1200px-%D0%A0%D0%BE%D1%81%D0%B0%D1%82%D0%BE%D0%BC_%D0%97%D0%BD%D0%B0%D0%BA.svg.png" alt="RosAtom" width="80" height="100" />
-      </td>
-      <td align="center">
-        <h3><b>Programming engineer</b></h3>
-        <p><b>[Rosatom State Nuclear Energy Corporation](https://www.rosatom.ru/index.html)</b></p>
-      </td>
-      <td align="center">
-        <img src="https://media.tproger.ru/uploads/2022/01/Avatar_kvadrat_VC-Budu_1000h1000.png" alt="MTS" width="100" height="100" />
-      </td>
-      <td align="center">
-        <h3><b>Java&Python developer</b></h3>
-        <p><b>[A Russian company providing telecommunications, digital and media services in Russia, Armenia and Belarus.](https://mts.ru)</b></p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Sberbank_Logo_2020.svg/1200px-Sberbank_Logo_2020.svg.png" alt="Sber" width="100" height="100" />
-      </td>
-      <td align="center">
-        <h3><b>Java Developer and Data Analytics</b></h3>
-        <p><b>[Sberbank - Russian financial and banking company](https://www.sberbank.com)</b></p>
-      </td>
-      <td align="center">
-        <img src="" alt="EBS" width="100" height="100" />
-      </td>
-      <td align="center">
-        <h3><b>Data Analytics & Engineering Lead</b></h3>
-        <p><b>[EBS - Russian multinational technology company](https://ebs.ru)</b></p>
-      </td>
-    </tr>
-  </table>
-</div>
 
 <p align="center">
-  It's an exciting journey, and I'm loving every moment of it! 💼
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00e676&center=true&width=800&lines=Crafting+clean+backends;Streaming+data+pipelines;Automating+what+shouldn't+be+manual"/>
 </p>
 
-## My favorite tools and technologies ⚙️
+<p align="center">
+  <code>🎓 Computer Engineering</code> &nbsp; | &nbsp;
+  <code>🧠 Data & Backend Engineering</code> &nbsp; | &nbsp;
+  <code>☕ Java Enthusiast</code> &nbsp; | &nbsp;
+  <code>🚀 System Builder</code>
+</p>
 
-> Tools and technologies that I use in my coding journey
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=00F7F9&center=true&width=700&lines=🎯+Mission:+Build+Systems+that+Outlive+Code;🧠+Focus:+Data+Engineering+|+Spring+|+Kafka;📚+Now+Learning:+Distributed+Tracing" alt="Typing animation" />
+</p>
+
+---
+## 👤 Who I Am
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=200&width=800&lines=user@macbook:~%24+echo+%22Welcome+to+Vladimir%E2%80%99s+Engineering+Console%22;Vladimir+is+a+system-focused+engineer.;Merges+backend+elegance+with+data+infra.;Currently+leading+pipelines+at+EBS.;Passionate+about+clean+architecture.;Loves+tooling+%26+automation.;Mentors+teams+%7C+Designs+systems.;Enjoys+building+what+scales." />
+</p>
+
 <div align="center">
-	<table>
-		<tr>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="HTTP" title="HTTP"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="IntelliJ" title="IntelliJ"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code></td>
-		</tr>
-		<tr>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" alt="Spring" title="Spring"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Spring Boot" title="Spring Boot"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" alt="Maven" title="Maven"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png" alt="JUnit" title="JUnit"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/190229463-87fa862f-ccf0-48da-8023-940d287df610.png" alt="Lombok" title="Lombok"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/185062810-7ee0c3d2-17f2-4a98-9d8a-a9576947692b.png" alt="Kotlin" title="Kotlin"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code></td>
-		</tr>
-		<tr>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="bash" title="bash"/></code></td>
-			<td><code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu"/></code></td>
-		</tr>
-	</table>
+  <img src="https://skillicons.dev/icons?i=java,python,kotlin,spring,postgres,airflow,kafka" height="50" />
 </div>
 
-## GitHub stats 📊
+---
+
+## 💼 My Career Roadmap
+
+```mermaid
+journey
+  title Vladimir's Growth as an Engineer
+  section Foundations
+    Sber — Data Analyst → Java Dev: 5: Vladimir
+  section Backend Engineering
+    MTS — Java & Python Dev: 4: Vladimir
+  section Systems Refactoring
+    Rosatom — Programming Engineer: 4: Vladimir
+  section Leadership & Scale
+    EBS — Lead Data Engineer: 5: Vladimir
+```
+---
+
+## 🔧 Engineering Highlights
 
 <details>
-  <summary>GitHub Profile Stats 💻</summary>
-  <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Vladimir's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=ynb4gang&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt "Vladimir's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ynb4gang&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
-  <br/>
+  <summary>🚀 Real-time ETL Pipeline</summary>
+
+* Stack: Python, Airflow, Kafka
+* Resilient to schema drift, retryable
+* 10M+ records/day throughput
+
 </details>
 
-## Connect with Me 🌐
+<details>
+  <summary>📈 Finance Dashboard</summary>
 
-<a href="https://discordapp.com/users/buccellati_scumbag/">
-  <img src="https://img.shields.io/badge/Discord-Chat%20with%20Me-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-</a>
-<a href="https://leetcode.com/young_carti">
-  <img src="https://img.shields.io/badge/LeetCode-Practice%20with%20Me-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
-</a>
-<a href="t.me/LuvDyrachyo">
-  <img src="https://img.shields.io/badge/Telegram-Message%20Me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-</a>
-<a href="https://vk.com/daxxxak">
-  <img src="https://img.shields.io/badge/VK-Add%20Me%20as%20Friend-4A76A8?style=for-the-badge&logo=vk&logoColor=white" alt="VK">
-</a>
+* Stack: Java, Spring Boot
+* Aggregates real-time financial metrics
+* Used across departments for reporting
+
+</details>
+
+<details>
+  <summary>🤖 Slack DevOps Bot</summary>
+
+* GitHub Actions + Docker
+* Slack notifications for CI/CD pipelines
+
+</details>
+
+<details>
+  <summary>🌐 Portfolio Website</summary>
+
+* React + Tailwind + Framer Motion
+* Full animated interface, deployed via GitHub Pages
+
+</details>
+
+---
+
+## 🧠 My Stack
+
+### 🌍 Languages & Frameworks
+
+<p><img src="https://skillicons.dev/icons?i=java,kotlin,python,spring" /></p>
+
+### 💄 Databases & Processing
+
+<p><img src="https://skillicons.dev/icons?i=postgres,mysql,kafka,airflow" /></p>
+
+### ⚙️ DevOps & Tools
+
+<p><img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,intellij" /></p>
+
+---
+
+## 🔭 Exploring Right Now
+
+```bash
+🔍 Studying   → OpenTelemetry, Jaeger
+📊 Optimizing → High-throughput data ingestion
+🧼 Learning   → Schema evolution patterns
+📚 Reading    → Platform design & system architecture
+```
+
+---
+
+## 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ynb4gang&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ynb4gang&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ynb4gang&theme=github_dark&utcOffset=3" />
+</p>
+
+---
+
+## 🎵 Now Playing on Spotify
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=314wkmygbk5mizupl4eac6ymhpuu&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" />
+</p>
+
+---
+
+## 🌱 Fun Facts
+
+* 🧠 Debugged a 3AM production issue with coffee & logs
+* 🎧 Engineering blogs > Netflix
+* 🎮 Indie + roguelike gamer
+* 🌍 Languages: Russian, English, SQL (fluently)
+* 🔄 Once migrated 100M+ rows with zero downtime
+
+---
+
+## 📨 Where to Find Me
+
+<p align="center">
+  <a href="https://discordapp.com/users/buccellati_scumbag"><img src="https://img.shields.io/badge/Discord-buccellati__scumbag-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://leetcode.com/young_carti"><img src="https://img.shields.io/badge/LeetCode-young__carti-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://t.me/MemyselfAndCode"><img src="https://img.shields.io/badge/Telegram-@LuvDyrachyo-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://vk.com/daxxxak"><img src="https://img.shields.io/badge/VK-daxxxak-4A76A8?style=for-the-badge&logo=vk&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E676,100:009688&height=120&section=footer" />
+</p>
